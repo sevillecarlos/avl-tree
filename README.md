@@ -3,7 +3,7 @@
 
 # Built
 ## Development Technologies
-C++
+![](https://img.shields.io/badge/Progamming--Language-C++-blue)
 
 # Getting Start
 ```
